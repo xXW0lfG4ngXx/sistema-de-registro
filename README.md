@@ -5,3 +5,5 @@
 Para ejecutar el sistema, instala los siguientes programas:
 
 ```pip install opencv```
+
+Sistema de Registro 2
